@@ -36,7 +36,7 @@
 			
 			<h2>How to be a healthier person.</h2>
 			<div id="haiku">
-				<br id="haiku">Sleep at early times to get along consistent rest. <br />
+				<br id="haiku">Sleep at early times to get along consistent rest. Eat healthy foods! Take your vitamins. Practice good hygiene. Find a new hobby, like HTML/CSS!<br />
 				<br id="haiku">Cut toxic people out of your life, like those who talk behind your back, judge your humor, or set you back from reaching emotional and mental success. At the same time, show the people you value and love how much you appreicate them by respecting and helping them at any time.  <br />
 				<br id="haiku">Take a walk to appreciate nature every day. <br />
 			</div>
