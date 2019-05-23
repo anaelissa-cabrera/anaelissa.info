@@ -1,0 +1,42 @@
+README.css
+h1 {
+	color: aquamarine;
+	text-align: center;
+	font-size: 40px;
+}
+h2 {
+	color: pink;
+	text-align: center;
+	font-size: 30px;
+}
+p {
+	text-align: justify;
+}
+body {
+	background-color: #e5e1ae;
+}
+#homebutton {
+	position: relative;
+	line-height: 1cm;
+}
+#contactbutton {
+	position: relative;
+	line-height: 1cm;
+}
+#titleimg {
+	float: left;
+	height: 30px;
+	position: relative;
+	top:5px
+}
+#titlebar {
+	border: 2px solid grey;
+	background-color: grey;
+	height: 40px;
+}
+a {
+	padding: 14px;
+}
+a, .titlebar {
+		color: white;
+}
