@@ -1,10 +1,11 @@
 <html>
+
 	<head>
 		<meta charset=“utf-8”/>
 	
 		<title>anaelissa.info</title>
 		
-		<link rel="stylesheet" type="text/css" href="README.css"/>
+		<link rel="stylesheet" type="text/css" href="homestyle.css"/>
 
 		<style>
 		 body {
@@ -42,43 +43,19 @@
 			<div>
 				<h2>Lists, Lists Everywhere!<h2 />
 				<ol style="list-style-type:upper-roman" >
-				<li>Milk</li>
-				<li>Pop</li>
+				<li>You</li>
+				<li>Got</li>
 				<ol style="list-style-type:lower-roman" >
-					<li>Coke</li>
-					<li>Dr.Pepper</li>
+					<li>This</li>
+					<li>Qween</li>
 				</ol>
-				<li>Tea</li>			
+				<li> <3 👸🏻</li>			
 				<ol />
 			</div>
 			
 			<hr />
 			<div>
-				<h2>A Table of Friends</h2>
 				
-					<div>
-						<table style="position:relative;height:80px; width: 300px;border:solid black 1px">
-							<tr>
-								<th style="text-decoration:underline;text-aligh:center;">First Name</th>
-								<th style="text-decoration:underline;text-aligh:center;">Last Name</th>
-								<th style="text-decoration:underline;text-aligh:center;">Rank</th>
-							</tr>
-							<tr>
-								<td>Aaron</td>
-								<td>Smith</td>
-								<td>2</td>
-							</tr>
-							<tr>
-								<td>Mary</td>
-								<td>Mace</td>
-								<td>1</td>
-							</tr>
-							<tr>
-								<td>Lee</td>
-								<td>Johnson</td>
-								<td>3</td>	
-							</tr>
-						</table>
 					</div>
 					</div>
 				
