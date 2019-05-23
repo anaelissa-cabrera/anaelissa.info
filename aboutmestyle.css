@@ -1,16 +1,31 @@
 h1 {
-	color: aquamarine;
+	color: black;
 	text-align: center;
 	font-size: 40px;
 }
 h2 {
-	color: pink;
+	color: blue;
 	text-align: center;
 	font-size: 30px;
 }
+
+h3 {
+	color: orange;
+	text-align: center;
+	font-size: 30px;
+}
+
+img-hs {
+	width: 600px;
+	background-image: url(image/mocktrial.JPG);
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 p {
 	text-align: justify;
 }
+
 body {
 	background-color: #e5e1ae;
 }
