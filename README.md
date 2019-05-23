@@ -1,6 +1,5 @@
 #I am not giving up!
 ##anaelissa.info
-<!DOCTYPE html>
 <html>
 
 	<head>
