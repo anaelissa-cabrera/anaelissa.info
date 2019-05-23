@@ -1,5 +1,3 @@
-#I am not giving up!
-##anaelissa.info
 <html>
 
 	<head>
