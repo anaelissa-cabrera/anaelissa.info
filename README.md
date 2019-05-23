@@ -19,11 +19,11 @@
 
  	<body>
  		<h1 style="font-family:fantasy; heve ">Ana Elissa Cabrera</h1>
- 		<div id="titlebar">
-				<a id="homebutton" class="titlebar" href="home.html">Home</a>
-				<a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
-				<a id="blogbutton" class="titlebar" href="blog.html">Blog</a>
-				<a id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a>
+ 		<div id="titlebar" style="background-color:grey; border: 2px solid grey; height: 40px">
+				<a style="color:white" id="homebutton" class="titlebar" href="home.html">Home</a>
+				<a style="color:white" id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
+				<a style="color:white" id="blogbutton" class="titlebar" href="blog.html">Blog</a>
+				<a style="color:white" id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a>
 		</div>
 		<h2>Home</h2>
 
@@ -56,15 +56,4 @@
 
 			
 			<hr />
-			
 
-
-
-			
-
-
-
- 	</body>
-
-
-</html>
