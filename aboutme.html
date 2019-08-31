@@ -1,147 +1,112 @@
 <!DOCTYPE html>
 <html>
+<title>Trying Fress Open Source COde</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('/img/melk.jpg');
+  min-height: 100%;
+}
+
+/* Second image (Portfolio) */
+.bgimg-2 {
+  background-image: url("/w3images/parallax2.jpg");
+  min-height: 400px;
+}
+
+/* Third image (Contact) */
+.bgimg-3 {
+  background-image: url("/w3images/parallax3.jpg");
+  min-height: 400px;
+}
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1600px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+    min-height: 400px;
+  }
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar" id="myNavbar">
+    <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <a href="home.html" class="w3-bar-item w3-button">HOME</a>
+    <a href="aboutme.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
+    <a href="#blog.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> BLOG</a>
+   
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+    <a href="aboutme.html" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
+    <a href="#gallery.html" class="w3-bar-item w3-button" onclick="toggleFunction()">GALLERY</a>
+    <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
+    <a href="#" class="w3-bar-item w3-button">SEARCH</a>
+  </div>
+</div>
 
 
-	<head>
-		<meta charset=“utf-8”/>
-	
-		<title>anaelissa.info</title>
-		
-		<link rel="stylesheet" type="text/css" href="aboutmestyle.css"/>
+<!-- Container (About Section) -->
+<div class="w3-content w3-container w3-padding-64" id="about">
+  <h3 class="w3-center">ABOUT ME</h3>
+  <p class="w3-center"><em>I love learning new things. </em></p>
+  <p>I'm trying to make my own website and it's a pain.</p>
+  <div class="w3-row">
+    <div class="w3-col m6 w3-center w3-padding-large">
+      <p><b><i class="fa fa-user w3-margin-right"></i>My Name</b></p><br>
+      <img src="/w3images/avatar_hat.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+    </div>
 
-		<style>
-		 body {
-				background-color: white;
-				}
-		</style>
-	</head>
-
- 	
-
-
- 	<body>
- 		<h1 style="font-family:fantasy; heve ">Ana Elissa Cabrera</h1>
- 		<div id="titlebar">
-				<a id="homebutton" class="titlebar" href="home.html">Home</a>
-				<a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
-				<a id="blogbutton" class="titlebar" href="blog.html">Blog</a>
-				<a id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a>
-		</div>
-			
-		<h2>About Me</h2>
-
-		<p>What a loaded question! I'm still trying to figure that out, but let me tell you what I know so far. Hello! My name is Anaelissa. I am a rising Senior at the University 0f Illinois at Urbana-Champaign, and I am studying Political Science. I am new to web development. My goal is to create my own website so that people can know more about me, such as my academic, volunteer, and work experience as well as my traveling adventures. </p>
-			
-		<img class="img-hs" src="image/mocktrial.JPG" alt="mocktrial">
-
-			<hr />
-			
-			<h3>Education</h3>
-			<div id="haiku">
-				<br id="haiku">University of Illinois at Urbana-Champaign,
-				Political Science BA and Linguistics minor | May 2020<br />
-				<br id="haiku">Stephen T. Mather High School | June 2016<br />
-				<br id="haiku"> I L L - I N I <br />
-			</div>
-			
-			<hr />
-
-			<h2>Internships</h2>
-			<div id="haiku">
-				<br id="haiku">Vallejo Center for Learning Spanish						February 2019-May 2019 | 
-				| Teaching Assistant Intern — Champaign, IL |
-				| Taught 9 native English speakers how to learn Spanish in private classes with 1-4 students per class, ranging from children to adults |
-				| Learn professional Spanish presentation and writing skills |
-				| Took notes, ask students to conjugate, spell, read, and pronounce Spanish words. |<br />
-				<br id="haiku"><br />
-				<br id="haiku"><br />
-			</div>
-
-			<hr />
-
-			<h3>Skills</h3>
-			<div id="haiku">
-				<br id="haiku">Natural Languages: Spanish and English: Native proficiency – can read, write, and speak my first language ; Chinese: Elementary proficiency<br />
-				<br id="haiku">Computer: Microsoft Office - PowerPoint (Advanced), Excel (Advanced)<br />
-				<br id="haiku">Artifical Languages:R (Intermediate); HTML (Intermediate), CSS (Basic), Python (Basic)<br />
-			</div>
-
-			<hr />
-			
-			<h2>Volunteer Experience</h2>
-			<div id="haiku">
-				<br id="haiku">Alternative Spring Break with University Housing				March 2017 | 
-		 	Student Volunteer — Washington, DC |
-			Food and Friends, DC Central Kitchen, Charlie’s Place, Coalition for the Homeless; prepared, cooked and serve food and dispersed clothing and hygiene products to over 300 homeless or welfare citizens; Walked around DC giving homeless people food.<br />
-				<br id="haiku"><br />
-				<br id="haiku"><br />
-			</div>
-			
-				<div>
-				
-				<hr />
-
-				<h3>How to Make This Website Actually Look Great.<h3 />
-				<ol style="list-style-type:upper-roman" >
-				<li>Read</li>
-				<li>Teach yoself</li>
-				<ol style="list-style-type:lower-roman" >
-					<li>Call Google?</li>
-					<li>Don't give up</li>
-				</ol>
-				<li></li>			
-				<ol />
-			</div>
-			
-			<hr />
-			<div>
-				<h2>A Table of Goals</h2>
-				
-					<div>
-						<table style="position:relative;height:80px; width: 300px;border:solid black 1px">
-							<tr>
-								<th style="text-decoration:underline;text-aligh:center;">Term</th>
-								<th style="text-decoration:underline;text-aligh:center;">Goal</th>
-								<th style="text-decoration:underline;text-aligh:center;">How To Reach</th>
-							</tr>
-							<tr>
-								<td>Summer 2019</td>
-								<td>Get an A+ on my Vienna Study Abroad class</td>
-								<td>Go to all excursions, do all assignments on time, go to class as much as possible. </td>
-							</tr>
-							<tr>
-								<td>Fall 2019</td>
-								<td>Illinois in Washington</td>
-								<td>Apply to a lot of internships during my Summer 2019 break. Get accepted to one.</td>
-							</tr>
-							<tr>
-								<td>Winter 2019</td>
-								<td>España for Fellowship or Guatemala to visit family?</td>
-								<td>Save up lots of money I guess?</td>	
-							</tr>
-						</table>
-					</div>
-					</div>
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-			</div>
+    <!-- Hide this text on small devices -->
+    <div class="w3-col m6 w3-hide-small w3-padding-large">
+      <p>Welcome to my website.</p>
+    </div>
+  </div>
+  <p class="w3-large w3-center w3-padding-16">Im really good at:</p>
+  <p class="w3-wide"><i class="fa fa-camera"></i>Writing</p>
+  <div class="w3-light-grey">
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
+  </div>
+  <p class="w3-wide"><i class="fa fa-laptop"></i>Web Design</p>
+  <div class="w3-light-grey">
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:85%">85%</div>
+  </div>
+  <p class="w3-wide"><i class="fa fa-photo"></i>Langauges</p>
+  <div class="w3-light-grey">
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:75%">75%</div>
+  </div>
+</div>
 
 
 
-			
-
-
-
- 	</body>
-
-
+</body>
 </html>
