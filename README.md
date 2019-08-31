@@ -19,7 +19,7 @@
 
  	<body>
  		<h1 style="font-family:fantasy; heve ">Ana Elissa Cabrera</h1>
- 		<div id="titlebar" style="background-color:grey; border: 2px solid grey; height: 40px">
+ 		<div id="titlebar" style="background-color:grey; border: 2px black; height: 50px">
 				<a style="color:white" id="homebutton" class="titlebar" href="home.html">Home</a>
 				<a style="color:white" id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
 				<a style="color:white" id="blogbutton" class="titlebar" href="blog.html">Blog</a>
@@ -27,23 +27,21 @@
 		</div>
 		<h2>Home</h2>
 
-		<p> Hello World! This website is currently under construction. I have built this website from the bottom up all by myself! This is what I have done in the span of three days! I am using all the knowledge I have learned in my CS@Illinois class (CS102: Introduction to Computer Science) that I took Fall 2017. I and am pursuing this as an independent project. 
-		<div>Honestly, I have wanted to give up so many times, but that is never an option! The only way you can get things done is to do it youself. You can't just learn a new skill overnight. It takes practice. I have learned so much, like how to use GitHub, git, how to commit, and other cool HTML/CSS tricks!Stay tuned for more awesome stuff! 👩🏻‍💻</div></p>
+		<p> </div></p>
 			
 		<img class="img-vienna" src="img/melk.JPG" alt="ana elissa"> 
 
 			<hr />
 			
-			<h2>How to be a healthier person.</h2>
+			<h2>Tips for When You Embark in a Far Away Program with a Large Group of People</h2>
 			<div id="haiku">
-				<br id="haiku">Sleep at early times to get along consistent rest. Eat healthy foods! Take your vitamins. Practice good hygiene. Find a new hobby, like HTML/CSS!<br />
-				<br id="haiku">Cut toxic people out of your life, like those who talk behind your back, judge your humor, or set you back from reaching emotional and mental success. At the same time, show the people you value and love how much you appreicate them by respecting and helping them at any time.  <br />
-				<br id="haiku">Take a walk to appreciate nature every day. <br />
+				<br id="haiku">When you are in a new city, state, or even country, don't rely on anyone to stand by and defend you. You are your own protector. You are, essentially, alone.<br />
+				<br  <br />
 			</div>
 			
 			<hr />
 			<div>
-				<h2>Don't give up on your site! Remember that you built this yourself and that you should be proud!/>
+				<h2>/>
 				<ol style="list-style-type:upper-roman" >
 				<li>You</li>
 				<li>Got</li>
