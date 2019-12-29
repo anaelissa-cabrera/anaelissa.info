@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html>
+
+
 
 
   <head>
-    <meta charset=“utf-8”/>
+    
   
     <title>anaelissa.info</title>
     
@@ -58,31 +58,3 @@
         <li>❤️👩🏻‍💼👩🏻‍💻👸🏻❤️</li>     
         <ol />
       
-      <hr />
-      <div>
-        
-          </div>
-          </div>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-      </div>
-
-
-
-      
-
-
-
-  </body>
-
-
-</html>
