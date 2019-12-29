@@ -1,84 +1,88 @@
+<!DOCTYPE html>
 <html>
-<title>anaelissa.info</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
-body, html {
-  height: 100%;
-  color: #777;
-  line-height: 1.8;
-}
 
-/* Create a Parallax Effect */
-.bgimg-1, .bgimg-2, .bgimg-3 {
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
-/* First image (Logo. Full height) */
-.bgimg-1 {
-  background-image: url("/img/melk.JPG");
-  min-height: 100%;
-}
+  <head>
+    <meta charset=“utf-8”/>
+  
+    <title>anaelissa.info</title>
+    
+    <link rel="stylesheet" type="text/css" href="homestyle.css"/>
 
-/* Second image (Portfolio) */
-.bgimg-2 {
-  background-image: url("/w3images/parallax2.jpg");
-  min-height: 400px;
-}
+    <style>
+     body {
+        background-color: white;
+        }
+    </style>
+  </head>
 
-/* Third image (Contact) */
-.bgimg-3 {
-  background-image: url("/w3images/parallax3.jpg");
-  min-height: 400px;
-}
+  
 
-.w3-wide {letter-spacing: 10px;}
-.w3-hover-opacity {cursor: pointer;}
 
-/* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-device-width: 1600px) {
-  .bgimg-1, .bgimg-2, .bgimg-3 {
-    background-attachment: scroll;
-    min-height: 400px;
-  }
-}
-</style>
-<body>
+  <body>
+    <h1 style="font-family:fantasy; heve ">Ana Elissa Cabrera</h1>
+    <div id="titlebar">
+        <a id="homebutton" class="titlebar" href="home.html">Home</a>
+        <a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
+        <a id="blogbutton" class="titlebar" href="blog.html">Blog</a>
+        <a id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a>
+    </div>
+      
+    <h2>Home</h2>
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar" id="myNavbar">
-    <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
-      <i class="fa fa-bars"></i>
-    </a>
-    <a href="home.html" class="w3-bar-item w3-button">HOME</a>
-    <a href="aboutme.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
-    <a href="#blog.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> BLOG</a>
-   
-  </div>
+    <p> Hello World! This website is currently under construction. I have built this website from the bottom up all by myself! This is what I have done in the span of three days! I am using all the knowledge I have learned in my CS@Illinois class (CS102: Introduction to Computer Science) that I took Fall 2017. I and am pursuing this as an independent project. 
+    <div>Honestly, I have wanted to give up so many times, but that is never an option! The only way you can get things done is to do it youself. You can't just learn a new skill overnight. It takes practice. I have learned so much, like how to use GitHub, git, how to commit, and other cool HTML/CSS tricks!Stay tuned for more awesome stuff! 👩🏻‍💻</div></p>
 
-  <!-- Navbar on small screens -->
-  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
-    <a href="aboutme.html" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
-    <a href="#gallery.html" class="w3-bar-item w3-button" onclick="toggleFunction()">GALLERY</a>
-    <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
-    <a href="#" class="w3-bar-item w3-button">SEARCH</a>
-  </div>
-</div>
+    <img class="img-vienna" src="img/melk.JPG" alt="melk abbey garden">
 
-<!-- First Parallax Image with Logo Text -->
-<div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
-  <div class="w3-display-middle" style="white-space:nowrap;">
-    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">Ana <span class="w3-hide-small">Elissa</span> Cabrera</span>
-  </div>
-</div>
 
-</body>
+      <hr />
+      
+    <h2>How to be a healthier person.</h2>
+      <div id="haiku">
+        <br id="haiku">Sleep at early times to get along consistent rest. <br />
+        <br id="haiku">Cut toxic people out of your life, like those who talk behind your back, judge your humor, or set you back from reaching emotional and mental success. At the same time, show the people you value and love how much you appreicate them by respecting and helping them at any time.  <br />
+        <br id="haiku">Take a walk to appreciate nature every day. <br />
+      </div>
+      
+      <hr />
+      <div>
+        <h2>Don't give up on your site! Remember that you built this yourself and that you should be proud!<h2 />
+        <ol style="list-style-type:upper-roman" >
+        <li>You</li>
+        <li>Got</li>
+        <ol style="list-style-type:lower-roman" >
+          <li>This</li>
+          <li>Qween</li>
+        </ol>
+        <li>❤️👩🏻‍💼👩🏻‍💻👸🏻❤️</li>     
+        <ol />
+      
+      <hr />
+      <div>
+        
+          </div>
+          </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+
+
+      
+
+
+
+  </body>
+
+
 </html>
