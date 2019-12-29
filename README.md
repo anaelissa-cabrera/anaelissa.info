@@ -1,9 +1,9 @@
-
-
+<!DOCTYPE html>
+<html>
 
 
   <head>
-    
+    <meta charset=“utf-8”/>
   
     <title>anaelissa.info</title>
     
@@ -48,13 +48,26 @@
       <hr />
       <div>
         <h2>Don't give up on your site! Remember that you built this yourself and that you should be proud!<h2 />
-        <ol style="list-style-type:upper-roman" >
-        <li>You</li>
-        <li>Got</li>
-        <ol style="list-style-type:lower-roman" >
-          <li>This</li>
-          <li>Qween</li>
-        </ol>
-        <li>❤️👩🏻‍💼👩🏻‍💻👸🏻❤️</li>     
-        <ol />
       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+
+
+      
+
+
+
+  </body>
+
+
+</html>
