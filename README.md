@@ -1,7 +1,6 @@
 
 
 
-  <head>
 
   
     <title>anaelissa.info</title>
@@ -13,7 +12,7 @@
         background-color: white;
         }
     </style>
-  </head>
+  
 
   
 
@@ -60,8 +59,3 @@
       
 
 
-
-  </body>
-
-
-</html>
