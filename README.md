@@ -2,21 +2,6 @@
 
 
 
-  
-    <title>anaelissa.info</title>
-    
-    <link rel="stylesheet" type="text/css" href="homestyle.css"/>
-
-    <style>
-     body {
-        background-color: white;
-        }
-    </style>
-  
-
-  
-
-
   <body>
     <h1 style="font-family:fantasy; heve ">Ana Elissa Cabrera</h1>
     <div id="titlebar">
