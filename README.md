@@ -1,6 +1,19 @@
-<!DOCTYPE html>
 <html>
 
+
+  <head>
+    <meta charset=“utf-8”/>
+  
+    <title>anaelissa.info</title>
+    
+    <link rel="stylesheet" type="text/css" href="homestyle.css"/>
+
+    <style>
+     body {
+        background-color: white;
+        }
+    </style>
+  </head>
 
 
 
