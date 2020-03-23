@@ -1,7 +1,56 @@
-README.css
-Html, body {
-  background-image: url('Documents/GitHub/anaelissa.info/img/peaches.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-} 
+h1 {
+	font-family: garamond;
+	color: black;
+	text-align: center;
+	font-size: 40px;
+}
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+
+.img-ae {
+	width: 400px;
+	background-image: url(img/melk.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+p {
+	text-align: justify;
+}
+body {
+	background-color: #e5e1ae;
+}
+#homebutton {
+	position: relative;
+	text-align: center;
+	line-height: 1cm;
+}
+#contactbutton {
+	position: relative;
+	text-align: center;
+	line-height: 1cm;
+}
+#titleimg {
+	float: left;
+	height: 30px;
+	position: relative;
+	text-align: center;
+	top:5px
+}
+#titlebar {
+	border: 2px pink;
+	background-color: pink;
+	text-align: center;
+	height: 40px;
+}
+a {
+	padding: 14px;
+	text-align: center;
+}
+a, .titlebar {
+		color: white;
+		text-align: center;
+}
