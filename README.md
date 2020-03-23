@@ -37,7 +37,7 @@
     <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black;">
         <a id="homebutton" class="titlebar" href="README.md">Home</a>
         <a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
-        <a id="blogbutton" class="titlebar" href="blog.html">Blog</a>
+        <a id="blogbutton" class="titlebar" href="blog.html">Poetry</a>
         <a id="gallerybutton" class="titlebar" href="gallery.html">Art</q></a>
     </div>
       
