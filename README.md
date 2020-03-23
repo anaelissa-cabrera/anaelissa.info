@@ -43,7 +43,7 @@
       
     <h2>Home</h2>
 
-    <b style="font-size=30px;font">What if we learned HTML/CSS TOGETHER....jkjk hahaha  
+    <b style="font-size:30px;text-align:center;">What if we learned HTML/CSS TOGETHER....jkjk hahaha  
     <div> Unless......😳👉👈</div></b> 
 
      <img class="img-ae" src="img/whitedress.JPG" alt="whitedress">
