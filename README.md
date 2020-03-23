@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en" class="js">
 
 <head>
 
-    <meta charset=“UTF-8”/>
+
   
      <link rel="stylesheet" type="text/css" href="homestyle.css"/>
 
@@ -80,7 +80,7 @@
         
         
         
-      </div>
+      
 
 
 
@@ -88,7 +88,4 @@
 
 
 
-  </body>
-
-
-</html>
+ 
