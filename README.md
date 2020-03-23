@@ -43,8 +43,8 @@
       
     <h2>Home</h2>
 
-    <p> Hello World! This website is currently under construction. I have built this website from the bottom up all by myself! This is what I have done in the span of three days! I am using all the knowledge I have learned in my CS@Illinois class (CS102: Introduction to Computer Science) that I took Fall 2017. I and am pursuing this as an independent project. 
-    <div>Honestly, I have wanted to give up so many times, but that is never an option! The only way you can get things done is to do it youself. You can't just learn a new skill overnight. It takes practice. I have learned so much, like how to use GitHub, git, how to commit, and other cool HTML/CSS tricks!Stay tuned for more awesome stuff! 👩🏻‍💻</div></p> 
+    <b style="font-size=30px;font">What if we learned HTML/CSS TOGETHER....jkjk hahaha  
+    <div> Unless......😳👉👈</div></b> 
 
      <img class="img-ae" src="img/whitedress.JPG" alt="whitedress">
 
