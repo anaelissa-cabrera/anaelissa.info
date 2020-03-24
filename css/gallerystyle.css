@@ -19,9 +19,11 @@ h2 {
 p {
 	text-align: justify;
 }
+
 body {
-	background-color: #e5e1ae;
+	background: white;
 }
+
 #homebutton {
 	position: relative;
 	text-align: center;
@@ -50,6 +52,8 @@ a {
 	text-align: center;
 }
 a, .titlebar {
-		color: white;
-		text-align: center;
+		color: black;
+		text-align: center
+		font-weight: bold;
+		font-family: fantasy; ;
 }
