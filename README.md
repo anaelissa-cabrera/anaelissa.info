@@ -1,62 +1,45 @@
-
+<!DOCTYPE html>
 <html lang="en" class="js">
+
+
 
 <head>
 
-
+    <meta charset=“UTF-8”/>
   
-     <link rel="stylesheet" type="text/css" href="homestyle.css"/>
+     <link rel="stylesheet" type="text/css" href="css/homestyle.css"/>
 
-
-    <title>A.E. Cabrera</title>
+     <title>A.E. Cabrera</title>
     
-   
-
     <style TYPE="text/css">
      
-     body {
-      background-image: url("img/peaches.jpg");
-      background-position: right top ;
-      z-index: 2;
-    }
-      p {
-        background: pink;
+      a {
+        text-decoration: none;
       }
-
-      div {
-        background: pink;
-
     </style>
-  </head>
 
+</head>
 
+<div style="background-image: url('img/map.JPEG'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px;">
 
-  <body background="img/peaches.jpg">
-
+  <body>
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
     <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black;">
         <a id="homebutton" class="titlebar" href="home.html">Home</a>
         <a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
         <a id="adventuresbutton" class="titlebar" href="adventures.html">Adventures</a>
         <a id="blogbutton" class="titlebar" href="arts.html">Arts</a>
-        <a id="gallerybutton" class="titlebar" href="gallery.html">Art</a>
-    </div>
-      
-    <h2>Home</h2>
+        <a id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a> 
+      </div>  
+  </body>
+</div>
 
-    <b style="font-size:30px;text-align:center;">What if we learned HTML/CSS TOGETHER....jkjk hahaha  
-    <div> Unless......😳👉👈</div></b> 
+<div>
+    <h1>Welcome!</h1>
 
-     <img class="img-ae" src="img/whitedress.JPG" alt="whitedress">
+   <p style="font-size:22px;font;text-align:center;">Hi! My name is Ana Elissa and this is Week 2 of Quarantine.</p>
 
-  
-    
-    
-
-    <img class="img-ae" src="img/peachpj.JPG" alt="peachpj">
-
-
-
+  <br > 
 
       <hr />
       
@@ -68,25 +51,13 @@
       </div>
       
       <hr />
+
       <div>
-        <h2>Don't give up on your site! Remember that you built this yourself and that you should be proud!<h2 />
-      
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-      
+        <h2>Don't give up on your site! Remember that you built this yourself and that you should be proud!</h2>
+      </div>
+</div>
 
+<div style="background-image: url('img/map.JPEG'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
+</div>
 
-
-      
-
-
-
- 
+</html>
