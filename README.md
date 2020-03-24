@@ -35,9 +35,9 @@
 
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
     <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black;">
-        <a id="homebutton" class="titlebar" href="README.md">Home</a>
+        <a id="homebutton" class="titlebar" href="home.html">Home</a>
         <a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
-        <a id="blogbutton" class="titlebar" href="blog.html">Poetry</a>
+        <a id="blogbutton" class="titlebar" href="poetryart.html">Poetry&Art</a>
         <a id="gallerybutton" class="titlebar" href="gallery.html">Art</a>
     </div>
       
