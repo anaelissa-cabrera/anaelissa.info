@@ -5,9 +5,10 @@ h1 {
 	font-size: 40px;
 }
 h2 {
+	font-family: fantasy;
 	color: black;
 	text-align: center;
-	font-size: 30px;
+	font-size: 50px;
 }
 
 .img-ae {
@@ -43,7 +44,7 @@ body {
 }
 #titlebar {
 	border: 2px pink;
-	background-color: pink;
+	background-color: #b7d076;
 	text-align: center;
 	height: 40px;
 }

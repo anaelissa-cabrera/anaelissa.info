@@ -1,6 +1,4 @@
-
-
- h1 {
+h1 {
 	font-family: garamond;
 	color: black;
 	text-align: center;
@@ -23,7 +21,7 @@ p {
 }
 
 body {
-	background-color: white;
+	background: white;
 }
 
 #homebutton {
@@ -57,5 +55,5 @@ a, .titlebar {
 		color: black;
 		text-align: center
 		font-weight: bold;
-		font-family: fantasy; ;
+		font-family: garamond; ;
 }
