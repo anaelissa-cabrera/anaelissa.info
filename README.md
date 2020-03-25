@@ -34,8 +34,7 @@
 </head>
 
 <div>
-  <body style="background-image: url('img/meatun.JPEG'); border-top: 5px solid black; border-bottom: : 5px solid black; border-bottom: 5px solid black;"">
-
+  <body>
     <h1 style="font-family:fantasy; font-size:75px;"> Ana Elissa Cabrera</h1>
     </div>
     <div id="startbar">
@@ -44,11 +43,8 @@
   </body>
 </div>
 
-<body>
 
 
-
- </body> 
 
 
 

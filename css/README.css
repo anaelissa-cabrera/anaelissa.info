@@ -1,3 +1,11 @@
+body {
+	background-image: url('img/meatun.JPEG'); 
+	border-top: 5px solid black; 
+	border-bottom: 5px solid black; 
+	border-bottom: 5px solid black;
+}
+
+
 h1 {
 	font-family: garamond;
 	color: black;
@@ -10,11 +18,6 @@ h2 {
 	font-size: 30px;
 }
 
-
-}
-body {
-	background-color: black;
-}
 #startbutton {
 	position: relative;
 	text-align: center;
