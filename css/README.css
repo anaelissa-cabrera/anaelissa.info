@@ -10,20 +10,12 @@ h2 {
 	font-size: 30px;
 }
 
-.img-ae {
-	width: 400px;
-	background-image: url(img/melk.jpg);
-	background-size: contain;
-	background-repeat: no-repeat;
-}
 
-p {
-	text-align: justify;
 }
 body {
-	background-color: #e5e1ae;
+	background-color: black;
 }
-#homebutton {
+#startbutton {
 	position: relative;
 	text-align: center;
 	line-height: 1cm;
@@ -40,17 +32,20 @@ body {
 	text-align: center;
 	top:5px
 }
-#titlebar {
+#startbar {
 	border: 2px black;
 	background-color: black;
 	text-align: center;
 	height: 40px;
+	width: 100px;
+	position: relative;
+	left: 575px;
 }
 a {
 	padding: 14px;
 	text-align: center;
 }
-a, .titlebar {
+a, .startbar {
 		color: white;
 		text-align: center;
 }
