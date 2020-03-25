@@ -1,4 +1,4 @@
-<html lang="en" class="js">
+<html>
 
 
 
@@ -36,13 +36,21 @@
     
     <h1 style="font-family: cursive; font-size:75px;"> Ana Elissa Cabrera</h1>
    
-    
+       <div class="startbutton" id="startbar">
         <a id="startbutton" class="startbar" href="home.html">START</a>
     
   
   </body>
 
 
+
+
+
+
+
+
+   
+</html>
 
 
 

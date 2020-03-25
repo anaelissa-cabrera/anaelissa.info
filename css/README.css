@@ -12,7 +12,6 @@ h1 {
 	text-align: center;
 	position: bottom; 
 	
-
 }
 
 h2 {
@@ -46,6 +45,7 @@ h2 {
 	width: 100px;
 	position: relative;
 	left: 575px;
+	top: -50px;
 }
 a {
 	padding: 14px;
