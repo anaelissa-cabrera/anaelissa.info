@@ -34,11 +34,12 @@
 </head>
 
   <body>
+    
     <h1 style="font-family:fantasy; font-size:75px;"> Ana Elissa Cabrera</h1>
    
-    <div id="startbar">
+    
         <a id="startbutton" class="startbar" href="home.html">START</a>
-    </div>  
+    
   
   </body>
 
