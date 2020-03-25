@@ -11,10 +11,11 @@ h2 {
 }
 
 .img-ae {
-	width: 400px;
+	width: 10px;
 	background-size: contain;
 	background-repeat: no-repeat;
 }
+
 
 p {
 	text-align: justify;
