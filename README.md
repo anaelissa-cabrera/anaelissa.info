@@ -38,24 +38,3 @@
    
        <div class="startbutton" id="startbar">
         <a id="startbutton" class="startbar" href="home.html">START</a>
-    
-  
-  </body>
-
-
-
-
-
-
-
-
-   
-</html>
-
-
-
-
-
-
-   
-</html>
