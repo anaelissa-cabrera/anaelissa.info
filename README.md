@@ -28,14 +28,13 @@
         padding-right: 100px;
       }
 
-
     </style>
 
 </head>
 
   <body>
     
-    <h1 style="font-family:fantasy; font-size:75px;"> Ana Elissa Cabrera</h1>
+    <h1 style="font-family: cursive; font-size:75px;"> Ana Elissa Cabrera</h1>
    
     
         <a id="startbutton" class="startbar" href="home.html">START</a>
