@@ -40,7 +40,7 @@
 <div>
     <h1>Welcome!</h1>
 
-   <p style="font-size:22px;font;text-align:center;">Hi! My name is Ana Elissa and this is Week 20 of Quarantine???</p>
+   <p style="font-size:22px;font;text-align:center;">Hi! My name is Ana Elissa! I am a recent grad from the University of Illinois at Urbana-Champaign. I majored in political science and minored in linguistics. I am fascinated by the law and human rights. I am seeking professional experience in government relations! This website is to satisfy my eagerness to teach myself cool new things. I am way better at web developmet and coding than last year, when I begun to take it seriously. This is progress! More to come, stay tuned...</p>
 
   <br > 
 
