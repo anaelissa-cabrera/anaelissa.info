@@ -4,7 +4,6 @@
 
 <head>
 
-    <meta charset=“UTF-8”/>
   
      <link rel="stylesheet" type="text/css" href="css/homestyle.css"/>
 
@@ -24,7 +23,7 @@
 
 </head>
 
-<div style="background-image: url('img/meatun.JPEG'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px;">
+<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px;">
 
   <body>
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
@@ -41,7 +40,7 @@
 <div>
     <h1>Welcome!</h1>
 
-   <p style="font-size:22px;font;text-align:center;">Hi! My name is Ana Elissa and this is Week 15 of Quarantine???</p>
+   <p style="font-size:22px;font;text-align:center;">Hi! My name is Ana Elissa and this is Week 20 of Quarantine???</p>
 
   <br > 
 
@@ -62,7 +61,7 @@
       </div>
 </div>
 
-<div style="background-image: url('img/meatun.JPEG'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
+<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
 </div>
 
 </html>
