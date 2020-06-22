@@ -23,7 +23,7 @@
 
 </head>
 
-<div style="background-image: url('img/br/introbr.jpeg') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; ">
+<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; ">
 
   <body>
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
@@ -47,12 +47,7 @@
 
       <hr />
       
-    <h2>How to be a healthier person.</h2>
-      <div id="haiku">
-        <br id="haiku">Sleep at early times to get a nice long consistent rest. <br />
-        <p id="haiku">Cut toxic people out of your life, like those who talk behind your back, judge your humor, or set you back from reaching emotional and mental success. At the same time, show the people you value and love how much you appreicate them by respecting and helping them at any time.  </p>
-        <br id="haiku">Take a walk to appreciate nature every day. <br />
-      </div>
+    <img class="img-ae" src="img/meatun.JPG" alt="guate">
       
       <hr />
 
@@ -61,7 +56,7 @@
       </div>
 </div>
 
-<div style="background-image: url('img/br/introbr.jpeg') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
+<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
 </div>
 
 </html>
