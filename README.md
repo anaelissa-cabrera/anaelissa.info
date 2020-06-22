@@ -48,7 +48,7 @@
      
 </div>
 
-<div style="background-image: url('img/megradquad.jpg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
+<div style="background-image: url('img/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
 </div>
 
 </html>
