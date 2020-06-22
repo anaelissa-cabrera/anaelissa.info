@@ -32,7 +32,8 @@
         <a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
         <a id="adventuresbutton" class="titlebar" href="adventures.html">Adventures</a>
         <a id="blogbutton" class="titlebar" href="arts.html">Arts</a>
-        <a id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a> 
+        <a id="gallerybutton" class="titlebar" href="gallery.html">Gallery</a>
+        <a id="contactbutton" class="titlebar" href="contact.html">Contact</a> 
       </div>  
   </body>
 </div>
