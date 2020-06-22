@@ -1,5 +1,4 @@
 
-
 <html lang="en" class="js">
 
 
@@ -8,7 +7,7 @@
   
      <link rel="stylesheet" type="text/css" href="css/README.css"/>
 
-     <title color="white";>A.E. Cabrera - Home </title>
+     <title>A.E. Cabrera</title>
 
     
     <style TYPE="text/css">
@@ -44,8 +43,7 @@
     <img class="img-ae" src="img/profesh.jpg" ALIGN="left" alt="professional">
     
 
-
-   <p style="font-size:22px;font;text-align:center;">Hi! My name is Ana Elissa! I am a recent grad from the University of Illinois at Urbana-Champaign. I majored in political science and minored in linguistics. I am fascinated by the law and human rights. I am seeking professional experience in government relations! This website is to satisfy my eagerness to teach myself cool new things. I am way better at web developmet and coding than last year, when I begun to take it seriously. This is progress! More to come, stay tuned...</p>
+   <p style="font-size:22px;font;text-align:right;">Hi! My name is Ana Elissa, A.E. ! I am a recent grad from the University of Illinois at Urbana-Champaign. I majored in political science and minored in linguistics. I am fascinated by the law, language, human rights, the government and how change happens within systems. I am seeking professional experience in government relations! This website is to satisfy my eagerness to teach myself cool new things. I am way better at web developmet and coding than last year, when I begun to take it seriously. This is progress! More to come, stay tuned...</p>
 
      
 </div>
