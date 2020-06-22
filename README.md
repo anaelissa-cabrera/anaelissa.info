@@ -23,7 +23,7 @@
 
 </head>
 
-<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; ">
+<div style="background-image: url('img/br/introbr.jpeg') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; ">
 
   <body>
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
@@ -45,18 +45,11 @@
   <br > 
 
 
-      <hr />
-      
-    <img class="img-ae" src="img/meatun.JPG" alt="guate">
-      
-      <hr />
-
-      <div>
-        <h2>Don't give up on your site! Remember that you built this yourself and that you should be proud!</h2>
-      </div>
+<div>    
+  <div style="background-image: url('img/meatun.JPEG') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; ">
 </div>
 
-<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
+<div style="background-image: url('img/br/introbr.jpeg') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
 </div>
 
 </html>
