@@ -5,7 +5,7 @@
 <head>
 
   
-     <link rel="stylesheet" type="text/css" href="css/homestyle.css"/>
+     <link rel="stylesheet" type="text/css" href="css/README.css"/>
 
      <title>A.E. Cabrera - Home </title>
 
@@ -23,7 +23,7 @@
 
 </head>
 
-<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px;">
+<div style="background-image: url('img/br/introbr.jpeg') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; ">
 
   <body>
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
@@ -61,7 +61,7 @@
       </div>
 </div>
 
-<div style="background-image: url('img/br/introbr.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
+<div style="background-image: url('img/br/introbr.jpeg') no-repeat; background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
 </div>
 
 </html>
