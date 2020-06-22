@@ -42,8 +42,8 @@ body {
 	top:5px
 }
 #titlebar {
-	border: 2px red;
-	background-color: red;
+	border: 2px blue;
+	background-color: orange;
 	text-align: center;
 	height: 40px;
 }
