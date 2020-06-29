@@ -28,7 +28,7 @@
   <body>
     <h1 style="font-family:fantasy;font-size: 75px;">A.E. Cabrera</h1>
     <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black;">
-        <a id="homebutton" class="titlebar" href="home.html">Home</a>
+        <a id="homebutton" class="titlebar" href="XREADME.html">Home</a>
         <a id="aboutmebutton" class="titlebar" href="aboutme.html">About Me</a>
         <a id="adventuresbutton" class="titlebar" href="adventures.html">Adventures</a>
         <a id="blogbutton" class="titlebar" href="arts.html">Arts</a>
@@ -42,8 +42,10 @@
     <h1>Welcome!</h1>
     
 
-   <p style="font-size:22px;font;text-align:right;">Hi! My name is Ana Elissa, A.E. ! I am a recent grad from the University of Illinois at Urbana-Champaign. I majored in political science and minored in linguistics. I am fascinated by the law, language, human rights, the government and how change happens within systems. I am seeking professional experience in government relations! This website is to satisfy my eagerness to teach myself cool new things. I am way better at web developmet and coding than last year, when I begun to take it seriously. This is progress! More to come, stay tuned...</p>
+   <p style="font-size:22px;font;text-align:right;">Hi! My name is Ana Elissa, A.E. ! I am a recent grad from the University of Illinois at Urbana-Champaign. I majored in political science and minored in linguistics. I am fascinated by the law, language, human rights, the government and how change happens within systems. I am seeking professional experience in government relations, business management and marketing. I built this website on my own. I'm still eagerly learning how to code to improve my user interface so some pages are under construction. Feel free to connect and contact me on LinkedIn.</p>
 
+
+  <a class="LI-simple-link" href='https://www.linkedin.com/in/aecabreraleon/' imgsrc="img/linkedin.png">LinkedIn</a>
      
 </div>
 
