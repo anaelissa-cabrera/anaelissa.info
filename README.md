@@ -4,17 +4,19 @@
 <html lang="en" class="js">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
+  top: -5px;
 }
 
 .fa:hover {
@@ -44,6 +46,22 @@ color: white;
 text-align: center;
 
 }
+
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .main {
+    width: 80%;
+    padding: 0;
+  }
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
 
 </style>
 
@@ -92,11 +110,14 @@ text-align: center;
 
 <hr />
 
-<div>
-  <a style="position:relative" class="fa fa-linkedin" href='https://www.linkedin.com/in/aecabreraleon/'></a>
-  <a style="position:relative" href="#" class="fa fa-youtube"></a>
-  <a style="position:relative" href="https://www.instagram.com/anaelissacl/" class="fa fa-instagram"></a>
-</div>
+<body>
+    <div id="titlebar" style="border-top: 5px solid black; border-bottom: 0px solid black;">
+      <a style="position:relative;" class="fa fa-linkedin" href='https://www.linkedin.com/in/aecabreraleon/'></a>
+      <a style="position:relative;" href="#" class="fa fa-youtube"></a>
+      <a style="position:relative;" href="https://www.instagram.com/anaelissacl/" class="fa fa-instagram"></a>
+     </div>  
+</body>
+
 
 <div style="background-image: url('img/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
 </div>
