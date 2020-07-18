@@ -1,11 +1,11 @@
 h1 {
-	font-family: garamond;
+	font-family: copperplate;
 	color: black;
 	text-align: center;
 	font-size: 40px;
 }
 h2 {
-	font-family: fantasy;
+	font-family: copperplate;
 	color: black;
 	text-align: center;
 	font-size: 50px;
@@ -44,7 +44,8 @@ body {
 }
 #titlebar {
 	border: 2px pink;
-	background-color: #b7d076;
+	/**background-color: #b7d076;**/
+	background-color: silver;
 	text-align: center;
 	height: 40px;
 }
@@ -56,5 +57,5 @@ a, .titlebar {
 		color: black;
 		text-align: center
 		font-weight: bold;
-		font-family: fantasy; ;
+		font-family: copperplate;
 }

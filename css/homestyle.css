@@ -16,10 +16,8 @@ body {
 }
 
 
-
-
 h1 {
-	font-family: garamond;
+	font-family: copperplate;
 	color: black;
 	text-align: center;
 	font-size: 40px;
@@ -75,5 +73,5 @@ a, .titlebar {
 		color: black;
 		text-align: center
 		font-weight: bold;
-		font-family: garamond; ;
+		font-family: copperplate;
 }
