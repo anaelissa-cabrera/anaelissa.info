@@ -25,7 +25,7 @@ text-decoration: underline;
       border-radius: 50%;
       border-color: transparent;
       top: 125px;
-      left: 775px;
+      left: 300px;
       position: relative; 
       background-position: bottom;
       max-width: : 100%;
@@ -97,7 +97,7 @@ text-align: center;
 <!---------------------------------------------------------------------------------------------------------->
 <head>
      <link rel="stylesheet" type="text/css" href="css/README.css"/>
-     <title style="color:white";>anaelissa.info 🏡 home </title>
+     <title>anaelissa.info 🏡 home </title>
 </head>
 <!----------------------------------------------------------------------------------------------------------->
 
