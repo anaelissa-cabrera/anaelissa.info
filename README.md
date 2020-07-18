@@ -97,7 +97,7 @@ text-align: center;
 <!---------------------------------------------------------------------------------------------------------->
 <head>
      <link rel="stylesheet" type="text/css" href="css/README.css"/>
-     <title color="white";>anaelissa.info 🏡 home </title>
+     <title style="color:white";>anaelissa.info 🏡 home </title>
 </head>
 <!----------------------------------------------------------------------------------------------------------->
 
