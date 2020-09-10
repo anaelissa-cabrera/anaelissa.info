@@ -1,18 +1,16 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
-<meta charset="UTF-8">
 <title>anaelissa.info </title>
 
-<link rel="stylesheet" href="README.css">
+<link rel="stylesheet" href="css/README.css">
 
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
 
 
 </head>
@@ -39,7 +37,11 @@
 </div>
 </div>
 
-
+<div align="center">
+ <marquee behavior="alternate" bgcolor="#FFFFFF" direction="left" height:="" 
+ loop="7" scrollamount="3" scrolldelay="2" width="100%">
+ <span style="font-family: cursive; font-size: 31px; color:; height: 50px;">👋☺️💛☀️ Hello awesome visitor, welcome to my site! Stay strong. These pandemic times are tough but you are not alone. I'm here for support!👋☺️💛☀️ Hello awesome visitor, welcome to my site! I hope you have a lovely day today! Stay strong. These pandemic times are tough but you are not alone. I'm here for support!👋☺️💛☀️ </span></marquee>
+</div>
 
 <section class="header">
   <div class="side-menu" id="side-menu">
@@ -66,7 +68,7 @@
         <li id="academics">Wirtschaftsuniversität Wien</li>
         <li id="academics">Stephen T. Mather High School</li>
         </ul>
-      <li><a href="aboutme.html">Professional<i class="fa-fa-angle-right"></i><a>
+      <li><a href="aboutme.html" style="text-decoration: none; color: white;">Professional<i class="fa-fa-angle-right"></i><a>
         <ul>
         <li>Skills</li>
         <li>Internships</li>
@@ -142,19 +144,19 @@
 
 
 <!-----------------featured---------------->
-<section class="featured-categories">
-<div class="container">
+<!section class="featured-categories">
+<!div class="container">
   <div class="row">
     <div class="col-md-4">
-    <img src="images/hqswim2.jpeg">
+    <!img src="images/hqswim2.jpeg">
     </div>
 
     <div class="col-md-4">
-    <img src="images/hqswim2.jpeg">
+    <!img src="images/hqswim2.jpeg">
     </div>
 
     <div class="col-md-4">
-    <img src="images/hqswim2.jpeg">
+    <!img src="images/hqswim2.jpeg">
     </div>
   </div>
 </div>
@@ -165,7 +167,7 @@
 <section class="on-sale">
 <div class="container">
   <div class="title-box">
-  <h2>0n Sale</h2>
+  <h2>⚠️Site Under Construction! 👩🏻‍💻⚠️</h2>
   </div>
 </div>
 </section>
@@ -207,6 +209,6 @@
 
 
 </body>
-</html>
+
 
 
