@@ -24,23 +24,17 @@
 <div class="search-box">
   <i class="fa fa-bars" id="menu-btn" onclick="openmenu()"></i>
   <i class="fa fa-times" id="menu-btn" onclick="closemenu()"></i>
-<img class="logo" src="images/aecl-logo.png">
+<img class="logo" src="images/aecl-logo.png" href="XREADME.html">
 <input type="text" class="form-control">
 <span class="input-group-text"><i class="fa fa-search"></i></span>
 </div>
 <div class="menu-bar">
   <ul>
-    <li><a href="#"><i class="fa fa-shopping-basket"></i>Cart</a></li>
-    <li><a href="#">Sign Up</a></li>
-    <li><a href="contact.html">Contact</a></li>
+    <li><a href="XREADME.html"><i class="fa fa-shopping-basket"></i>Cart</a></li>
+    <li><a href="XREADME.html">Sign Up</a></li>
+    <li><a href="XREADME.html">Contact</a></li>
   </ul> 
 </div>
-</div>
-
-<div align="center">
- <marquee behavior="alternate" bgcolor="#FFFFFF" direction="left" height:="" 
- loop="7" scrollamount="3" scrolldelay="2" width="100%">
- <span style="font-family: cursive; font-size: 31px; color:; height: 50px;">👋☺️💛☀️ Hello awesome visitor, welcome to my site! Stay strong. These pandemic times are tough but you are not alone. I'm here for support!👋☺️💛☀️ Hello awesome visitor, welcome to my site! I hope you have a lovely day today! Stay strong. These pandemic times are tough but you are not alone. I'm here for support!👋☺️💛☀️ </span></marquee>
 </div>
 
 <section class="header">
@@ -61,28 +55,28 @@
         </li>
         </ul>
       </li>
-      <li>Academic<i class="fa-fa-angle-right";></i>
+      <li>Academics</li>
         <ul>
         <li id="academics"><span style="color: orange;">University of Illinois</span><br><span style="color: silver;">at</span> <span style="color: navy;">Urbana-Champaign</span></li>
         <li></li>
         <li id="academics">Wirtschaftsuniversität Wien</li>
         <li id="academics">Stephen T. Mather High School</li>
         </ul>
-      <li><a href="aboutme.html" style="text-decoration: none; color: white;">Professional<i class="fa-fa-angle-right"></i><a>
+      <li><a href="aboutme.html" style="text-decoration: none; color: white;">Professional<a>
         <ul>
-        <li>Skills</li>
-        <li>Internships</li>
-        <li>Activites</li>
+        <li><a href="XREADME.html">Skills<a></li>
+        <li><a href="XREADME.html">Internships<a></li>
+        <li><a href="XREADME.html">Activites<a></li>
         <li>Volunteer</li>
         </ul>
       </li>
-      <li>Adventures<i class="fa-fa-angle-right"></i>
+      <li><a href="XREADME.html">Adventures</a><i class="fa-fa-angle-right"></i>
         <ul>
-        <li>United States</li>
-        <li>Central America</li>
-        <li>Europe</li>
+        <li><a href="XREADME.html">United States</a></li>
+        <li><a href="XREADME.html">Central America</a></li>
+        <li><a href="XREADME.html">Europe</a></li>
         </ul>
-        <li>Shop<i class="fa-fa-angle-right"></i>
+        <li><a href="XREADME.html">Shop</a><i class="fa-fa-angle-right"></i>
         <ul>
         <li><span style="color: red">C</span><br>
           <span style="color: hotpink"> L</span><br>
@@ -101,9 +95,7 @@
 <div id="slider" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
 
-    <div class="carousel-item active">
-      <img src="images/gradcover.jpg" class="d-block w-100">
-    </div>
+  
 
   <div class="carousel-item">
         <img style="width: 60%" src="images/hackIL0.jpg" class="d-block w-100">
@@ -116,9 +108,7 @@
 
     
 
-    <div class="carousel-item">
-      <img src="images/unitednations1.jpg" class="d-block w-100">
-    </div>
+   
 </div>
  </div>
 
@@ -151,13 +141,7 @@
     <!img src="images/hqswim2.jpeg">
     </div>
 
-    <div class="col-md-4">
-    <!img src="images/hqswim2.jpeg">
-    </div>
-
-    <div class="col-md-4">
-    <!img src="images/hqswim2.jpeg">
-    </div>
+  
   </div>
 </div>
 </section>
@@ -167,7 +151,7 @@
 <section class="on-sale">
 <div class="container">
   <div class="title-box">
-  <h2>⚠️Site Under Construction! 👩🏻‍💻⚠️</h2>
+  <h2><a href="XREADME.html">⚠️Site Under Construction! 👩🏻‍💻⚠️</a></h2>
   </div>
 </div>
 </section>
