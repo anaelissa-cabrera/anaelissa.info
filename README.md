@@ -101,10 +101,10 @@ text-align: center;
 </head>
 <!----------------------------------------------------------------------------------------------------------->
 
-<div style="background-image: url('img/br/newilogo.jpeg'); background-position: center; background-position:fixed; padding-top: 100px;">
+<div style="background-image: url('images/br/newilogo.jpeg'); background-position: center; background-position:fixed; padding-top: 100px;">
 
 <div>
- <img class="my-logo"  src="img/aeclmylogo.png">
+ <img class="my-logo"  src="images/aeclmylogo.png">
 </div>
 
 <div>
@@ -121,7 +121,7 @@ text-align: center;
   </body>
 </div>
 <!---------------------------------------------------------------------------------------------------------------------------->
-<div style="background-image: url('img/megradquad.jpg'); background-position: bottom ; x-index: 300; background-position: fixed; padding-top: 550px; padding-bottom: 15px;">
+<div style="background-image: url('images/megradquad.jpg'); background-position: bottom ; x-index: 300; background-position: fixed; padding-top: 550px; padding-bottom: 15px;">
 <div>
    
 <!---------------------------------------------------------------------------------------------------------------------------->
@@ -135,7 +135,7 @@ text-align: center;
 </body>
 
 
-<div style="background-image: url('img/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 100px; border-top: 5px solid black;"> 
+<div style="background-image: url('images/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 100px; border-top: 5px solid black;"> 
 </div>
 
 
