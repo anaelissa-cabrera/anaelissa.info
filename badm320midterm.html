@@ -1,243 +1,214 @@
 <!DOCTYPE html>
-<html lang="en" class="js">
+<html>
 
 <head>
-  <meta charset=“UTF-8”/>
-  <link rel="stylesheet" type="text/css" href="css/adventures.css"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <title>aec4 🕵🏻‍♀️ adventures</title>
+<title>anaelissa.info</title>
+
+<link rel="stylesheet" href="css/README.css">
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
 </head>
 
+<body>
+
+
+</body>      
+
+<div class="top-nav-bar">
+<div class="search-box">
+  <i class="fa fa-bars" id="menu-btn" onclick="openmenu()"></i>
+  <i class="fa fa-times" id="menu-btn" onclick="closemenu()"></i>
+<img class="logo" src="images/aecl-logo.png">
+<input type="text" class="form-control">
+<span class="input-group-text"><i class="fa fa-search"></i></span>
+</div>
+<div class="menu-bar">
+  <ul>
+    <li><a href="#"><i class="fa fa-shopping-basket"></i>Cart</a></li>
+    <li><a href="#">Sign Up</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul> 
+</div>
+</div>
+
+<div align="center">
+ <marquee behavior="alternate" bgcolor="#FFFFFF" direction="left" height:="" 
+ loop="7" scrollamount="3" scrolldelay="2" width="100%">
+ <span style="font-family: cursive; font-size: 31px; color:; height: 50px;">👋☺️💛☀️ Hello awesome visitor, welcome to my site! Stay strong. These pandemic times are tough but you are not alone. I'm here for support!👋☺️💛☀️ Hello awesome visitor, welcome to my site! I hope you have a lovely day today! Stay strong. These pandemic times are tough but you are not alone. I'm here for support!👋☺️💛☀️ </span></marquee>
+</div>
+
+<section class="header">
+  <div class="side-menu" id="side-menu">
+    <ul>
+      <li>About<i class="fa-fa-angle-right"></i>
+        <ul>
+        <li>
+          <span style="color: red">B</span><br>
+          <span style="color: hotpink"> I</span><br>
+          <span style="color: navy">O</span><br>
+          <span style="color: skyblue">G</span><br>
+          <span style="color: darkorange">R</span><br>
+          <span style="color: green">A</span><br>
+          <span style="color: purple">P</span><br>
+          <span style="color: brown">H</span><br>
+          <span style="color: #FFD700;">Y</span><br>
+        </li>
+        </ul>
+      </li>
+      <li>Academic<i class="fa-fa-angle-right";></i>
+        <ul>
+        <li id="academics"><span style="color: orange;">University of Illinois</span><br><span style="color: silver;">at</span> <span style="color: navy;">Urbana-Champaign</span></li>
+        <li></li>
+        <li id="academics">Wirtschaftsuniversität Wien</li>
+        <li id="academics">Stephen T. Mather High School</li>
+        </ul>
+      <li><a href="aboutme.html" style="text-decoration: none; color: white;">Professional<i class="fa-fa-angle-right"></i><a>
+        <ul>
+        <li>Skills</li>
+        <li>Internships</li>
+        <li>Activites</li>
+        <li>Volunteer</li>
+        </ul>
+      </li>
+      <li>Adventures<i class="fa-fa-angle-right"></i>
+        <ul>
+        <li>United States</li>
+        <li>Central America</li>
+        <li>Europe</li>
+        </ul>
+        <li>Shop<i class="fa-fa-angle-right"></i>
+        <ul>
+        <li><span style="color: red">C</span><br>
+          <span style="color: hotpink"> L</span><br>
+          <span style="color: navy">O</span><br>
+          <span style="color: skyblue">S</span><br>
+          <span style="color: darkorange">E</span><br>
+          <span style="color: #FFD700;">T</span><br>
+        </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+
+<div class="slider">
+<div id="slider" class="carousel slide carousel-fade" data-ride="carousel">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+      <img src="images/gradcover.jpg" class="d-block w-100">
+    </div>
+
+  <div class="carousel-item">
+        <img style="width: 60%" src="images/hackIL0.jpg" class="d-block w-100">
+      </div>
+
+
+  <div class="carousel-item">
+        <img src="images/alpes-aus.jpg" class="d-block w-100">
+  </div>
+
     
-<style TYPE="text/css">
-     
 
-      .my-logo {
-      padding: 10px;
-      font-size: 100px;
-      width: 200px;
-      text-align: relative;
-      text-decoration: none;
-      margin: 20px 40px;
-      border-radius: 50%;
-      border-color: transparent;
-      top: 125px;
-      left: 700px;
-      position: relative; 
-      background-position: bottom;
-}
-
-       #title {
-        font-size:30px;
-        text-align: left;
-        font-family: times;
-      }
-
-
-      #subtitle {
-        font-size:30px;
-        text-align: left;
-        font-family: times;
-      }
-
-
-      #info {
-      font-size: 24px;
-      font-family: times;
-      text-align: left;
-
-     }
-
-     #words {
-      font-size: 16px;
-      text-align: left;
-      text-decoration: none;
-      font-family: times;
-      font-weight: normal;
-     }
-
-      a {
-        text-decoration: none;
-      }
-
-      p {
-      word-wrap: break-word;
-      width: 950px;
-}
-      }
-      
-        <style>
-        .fa {
-          padding: 10px;
-          font-size: 20px;
-          width: 20px;
-          text-align: center;
-          text-decoration: none;
-          margin: 5px 2px;
-          border-radius: 50%;
-          top: -5px;
-        }
-
-      .fa:hover {
-          opacity: 0.7;
-          text-align: center;
-      }
-
-      .fa-linkedin {
-        background: #007bb5;
-        color: white;
-        text-align: center;
-      }
-
-      .fa-youtube {
-        background: #bb0000;
-        color: white;
-        text-align: center;
-      }
-
-      .fa-instagram {
-      background: #f09433; 
-      background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-      background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-      background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-      color: white;
-      text-align: center;
-
-      }
-
-      @media only screen and (max-width:800px) {
-        /* For tablets: */
-        .main {
-          width: 80%;
-          padding: 0;
-        }
-        .right {
-          width: 100%;
-        }
-      }
-      @media only screen and (max-width:500px) {
-        /* For mobile phones: */
-        .menu, .main, .right, .my-logo {
-          width: 50%;
-          left: 120px;
-        }
-      }
-
-   .gallery {
-    position: center;
-    text-align: center;
-   }
-
-
-      
-  </style>
-  
-
-<!---------------------------------------------------->
-  
-<div style="background-image: url('img/br/newilogo.jpeg'); background-position: center; background-position: fixed; padding-top: 100px;">
-
-  <div>
- <img class="my-logo" src="img/aeclmylogo.png">
+    <div class="carousel-item">
+      <img src="images/unitednations1.jpg" class="d-block w-100">
+    </div>
 </div>
-
-<div>
-<body>
-    <h1 href="README.md" style="color:white; font-size: 35px; left:400px;"> Ana Elissa 💻 🖥 💻 🖥 💻  Cabrera Leon </h1>
-</div>
-    <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black; text-decoration: underline;">
-        <a id="homebutton" class="titlebar" href="XREADME.html">HOME 🏡</a>
-        <a id="aboutmebutton" class="titlebar" href="aboutme.html">ABOUT 🇬🇹</a>
-        <a id="adventuresbutton" class="titlebar" href="badm320midterm.html"> ADVENTURES 🕵🏻‍♀</a>
-        <a id="blogbutton" class="titlebar" href="arts.html">ARTS🎨</a>
-        <a id="gallerybutton" class="titlebar" href="gallery.html">GALLERY📷</a>
-        <a id="contactbutton" class="titlebar" href="contact.html">CONTACT📬</a> 
-      </div>  
-  </body>
-</div>
-
-<div>
-    <h1>Aventures</h1>
-    <h3 id="info">So...<br/> Where in the World Have I been? <br/>Where to next?<br/>When the world heals I will start my adventures once more<br/>Take a Look at My Past Adventures While You Wait <br/> Meanwhile I shall stay safe in my room...for </h3>
-<!---------------------------------------------------->
-
-
-<!*************************************************0> 
-
-<h3 id="subtitle" style="font-family:copperplate;">Step 0: Brand Background</h3>
-
-
-<h3 id="info" style="font-family:copperplate;">Brand:</h3>
-<h3 id="info" style="font-size:30px;color:red;font-family:copperplate;">I am<br style="font-size:60px" / >
-AECL</h3>
-
-  <h3 id="info" style="text-align: left;font-family:copperplate;">Brand Logo:</h3>
-  <p id="words">An intellectual with sophisticated glasses, tea enthusiast, a connoisseur of yellow things. Poised and elegant like pink. Natural born leader with a fiery red personality ready to fight for human rights. The perfect student for your law school, Class of 2023. I am AECL ... Ana Elissa Cabrera Leon ... your law school really needs a woman with the values, life experiences, skills and characteristics that I have! You, my future souce of knowledge and opporunity, and I, born to represent the American law and justice with my heart of gold. Together we make the perfect team to make the world a more liveable, loveable, better,safer place! </p>
-
-  <div class="gallery">
-   <img class="img-dc" style="width:25%; text-align: left;" src="img/aeclmylogo.png" alt="my-logo">
-   <img class="img-uiuc" style="width:20%; text-align:left;" src="img/kaprush.jpg">
  </div>
-<hr>
-<!*************************************************1> 
 
-<h3 id="subtitle" style="font-family: copperplate;"></h3>
-
-<h3 id= "info" style="font-family:copperplate;"></hr> 
-
-
-<p id="words"> <br />
-<br>
-</p>
-
-<p id="words"></p>
-
-<p id="words"></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d3ieB5-Xb-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div>
-<a id="words">
-<a id="words" style="color:blue;text-decoration: underline;" href="arts.html">here.<a>. 
-<div>
+ <ol class="carousel-indicators">
+    <li data-target="#slider" data-slide-to="1" class="active"></li>
+    <li data-target="#slider" data-slide-to="2"></li>
+    <li data-target="#slider" data-slide-to="3"></li>
+    <li data-target="#slider" data-slide-to="4"></li>
+  </ol>
 
 
-  <div class="gallery">
-   
- </div>
-<hr>
+  <a class="carousel-control-next" href="#slider" role="button" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+    <span class="sr-only">Next</span>
+  </a>
 
-<!*************************************************2> 
+
+</div>
+</div>
+
+</section>
 
 
 
-<!*************************************************4> 
-<h3 id="subtitle" style="font-family:copperplate;">AECL's Feature-Benefit</h3>
+<!-----------------featured---------------->
+<!section class="featured-categories">
+<!div class="container">
+  <div class="row">
+    <div class="col-md-4">
+    <!img src="images/hqswim2.jpeg">
+    </div>
 
-<h3 id= "info" style="font-family:copperplate;">My Cost-Benefit Analysis</hr>  
+    <div class="col-md-4">
+    <!img src="images/hqswim2.jpeg">
+    </div>
 
-<p id="words">There is an absolute 100% certainty that when I set myself to accomplish a goal, I will acheive it, be it through <em>fire</em> or high water. I am a very determined individual with a passion to learn new skills and topics even if that means doing it alone. This means I can provide you with flexibility to work in different departments to perform distinct tasks. Be it Spanish-English translation, help in fixing typos in your website, answering calls or strengthening relations with your clients, I'm your girl! I might take a bit more time in big projects, but it is because of my sharp attention to detail that can let you rest self-assured with my quality of work. However, through time and expeience, there is no doubt my time managemet will improve. 
+    <div class="col-md-4">
+    <!img src="images/hqswim2.jpeg">
+    </div>
+  </div>
+</div>
+</section>
 
-<p id="words">I am friendly, inviting and very inclusive overall. Sometimes though, when I have something in mind, it may be less easy for me to understand others who may think differently but I try my best in understandng and am willing to know more on how the human mind works. Expect my inquisitive nature to perspire, as I ask many questions and try to learn hands-on when I don't understand things.</p>
 
-<p id="words">I am an overachieving, honest and genuine young woman with many talents and a kind heart that is always finding ways to help others and make their lives easier. Throughout this project, I provided and trusted you, the reader, with the absolute transparency of all my bad and good sides. I hope you can truly see who AECL is from my eyes and the world's. I am the exact person your law school needs to send out to the world as a future attorney ready to tackle all the bad sides of society while embracing and generating all that is good. I am AECL.</p>
+<!-----------------On Sale products---------------->
+<section class="on-sale">
+<div class="container">
+  <div class="title-box">
+  <h2>⚠️Site Under Construction! 👩🏻‍💻⚠️</h2>
+  </div>
+</div>
+</section>
 
-<!*************************************************End>  
-<!---------------------------------------------------->
 
-<body>
-    <div id="titlebar" style="border-top: 5px solid black; border-bottom: 0px solid black;">
-      <a style="position:relative;" class="fa fa-linkedin" href='https://www.linkedin.com/in/aecabreraleon/'></a>
-      <a style="position:relative;" href="#" class="fa fa-youtube"></a>
-      <a style="position:relative;" href="https://www.instagram.com/anaelissacl/" class="fa fa-instagram"></a>
-     </div>  
+</section>
+
+
+
+
+<script>
+
+  function openmenu()
+    {
+      document.getElementById("side-menu").style.display="block";
+      document.getElementById("menu-btn").style.display="none";
+      document.getElementById("close-btn").style.display="block";
+    }
+
+  function closemenu()
+    {
+      document.getElementById("side-menu").style.display="none";
+      document.getElementById("menu-btn").style.display="block";
+      document.getElementById("close-btn").style.display="none";
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
-
-
-<div style="background-image: url('img/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 60px; border-top: 5px solid black;"> 
-</div>
-
-
-
 </html>
+
+

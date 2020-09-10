@@ -112,7 +112,7 @@ text-align: center;
     <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black; text-decoration: underline;">
         <a id="homebutton" class="titlebar" href="XREADME.html">HOME 🏡</a>
         <a id="aboutmebutton" class="titlebar" href="aboutme.html">ABOUT ME👩🏻‍🎓</a>
-        <a id="adventuresbutton" class="titlebar" href="XREADME.html">NEW Web Design In Progress</a>
+        <a id="adventuresbutton" class="titlebar" href="XREADME.html">NEW WEBSITE</a>
         <a id="blogbutton" class="titlebar" href="arts.html">ARTS🎨</a>
         <a id="gallerybutton" class="titlebar" href="gallery.html">GALLERY📷</a>
         <a id="contactbutton" class="titlebar" href="contact.html">CONTACT📬</a> 
