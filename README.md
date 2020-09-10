@@ -97,14 +97,13 @@ text-align: center;
 <!---------------------------------------------------------------------------------------------------------->
 <head>
      <link rel="stylesheet" type="text/css" href="css/fu-readme.css"/>
-     <title color="white";>anaelissa.info 🏡 home </title>
 </head>
 <!----------------------------------------------------------------------------------------------------------->
 
 <div style="background-image: url('images/br/newilogo.jpeg'); background-position: center; background-position:fixed; padding-top: 100px;">
 
 <div>
- <img class="my-logo"  src="images/aeclmylogo.png">
+ <img class="my-logo"  src="images/aecl-logo.png">
 </div>
 
 <div>
