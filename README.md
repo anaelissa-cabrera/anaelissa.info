@@ -6,6 +6,7 @@
 
 <style TYPE="text/css"> 
 
+
 a {
 text-decoration: underline;
 
@@ -25,8 +26,8 @@ text-decoration: underline;
       border-radius: 50%;
       border-color: transparent;
       top: 125px;
-      left: 500px;
-      position: relative; 
+      left: 300px;
+      position: static; 
       background-position: bottom;
       max-width: : 100%;
 }
@@ -100,29 +101,18 @@ text-align: center;
 </head>
 <!----------------------------------------------------------------------------------------------------------->
 
-<div style="background-image: url('images/br/newilogo.jpeg'); background-position: center; background-position:fixed; padding-top: 100px;">
+<div style="background-image: url('images/br/newilogo.jpeg'); background-position: center fixed; padding-top: 20px;">
 
 <div>
  <img class="my-logo"  src="images/aecl-logo.png">
 </div>
 
-<div>
-<body>
-    <h1 href="README.md" style="color:white; font-size: 35px; left:400px;"> Ana Elissa🎶🎵🎶🎵🎶🎵🎶 Cabrera Leon </h1>
-    <div id="titlebar" style="border-top: 5px solid black; border-bottom: 5px solid black; text-decoration: underline;">
-        <a id="homebutton" class="titlebar" href="XREADME.html">HOME 🏡</a>
-        <a id="aboutmebutton" class="titlebar" href="aboutme.html">ABOUT ME👩🏻‍🎓</a>
-        <a id="adventuresbutton" class="titlebar" href="XREADME.html">NEW WEBSITE</a>
-        <a id="blogbutton" class="titlebar" href="arts.html">ARTS🎨</a>
-        <a id="gallerybutton" class="titlebar" href="gallery.html">GALLERY📷</a>
-        <a id="contactbutton" class="titlebar" href="contact.html">CONTACT📬</a> 
-      </div>  
-  </body>
-</div>
 <!---------------------------------------------------------------------------------------------------------------------------->
-<div style="background-image: url('images/megradquad.jpg'); background-position: bottom ; x-index: 300; background-position: fixed; padding-top: 550px; padding-bottom: 15px;">
+<div style="background-image: url('images/background.jpg'); background-position: fixed; padding-top: 45px; padding-bottom: 10px;">
 <div>
-   
+
+
+<h1>My website has moved to<br><a href="http://aecabrera.com/">aecabrera.com</a></h1>
 <!---------------------------------------------------------------------------------------------------------------------------->
 
 <body>
@@ -134,7 +124,5 @@ text-align: center;
 </body>
 
 
-<div style="background-image: url('images/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 100px; padding-bottom: 100px; border-top: 5px solid black;"> 
+<div style="background-image: url('images/br/newilogo.jpeg'); background-position: top; z-index: 2; background-position: fixed; padding-top: 10px; padding-right: 100%; padding-bottom: 300px; border-top: 5px solid black;"> 
 </div>
-
-
